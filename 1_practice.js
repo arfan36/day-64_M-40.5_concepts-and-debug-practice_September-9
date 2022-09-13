@@ -5,7 +5,7 @@
 3. scope: block, function, global
 4. closure
 5. hoisting
-6. calback function
+6. callback function
 7. arguments. what is array like object.
 8. array vs array like object
 9. truthy vs falsy
